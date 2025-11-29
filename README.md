@@ -62,6 +62,8 @@ Notes File -> Notes.txt
         •	Helps anyone who works after you understand the workflow.
         •	Keeps track of changes, ideas, and updates.
         •	Very helpful for follow-up, verification, and maintaining project clarity.
+
+imeg
 ________________________________________
 What’s next?
 
