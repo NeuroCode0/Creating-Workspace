@@ -63,7 +63,8 @@ Notes File -> Notes.txt
         •	Keeps track of changes, ideas, and updates.
         •	Very helpful for follow-up, verification, and maintaining project clarity.
 
-imeg
+<img width="617" height="353" alt="image" src="https://github.com/user-attachments/assets/6a2420c5-5382-465a-9cc8-d8dea99329e1" />
+
 ________________________________________
 What’s next?
 
