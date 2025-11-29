@@ -1,13 +1,16 @@
 Creating Your Main Workspace
 
 To start professionally, we must begin with the most important step:
-Building an organized and clear workspace that gathers all your work in one place.
+
+    Building an organized and clear workspace that gathers all your work in one place.
+    
 Why do we need a workspace?
-Without structure and organization:
-•	Data is easily lost.
-•	Files and datasets will grow over time.
-•	Projects will accumulate, and without a system… you may lose track of your work or get overwhelmed.
-•	Having a clear structure from the beginning makes it easier to add new projects without creating chaos.
+
+    Without structure and organization:
+    •	Data is easily lost.
+    •	Files and datasets will grow over time.
+    •	Projects will accumulate, and without a system… you may lose track of your work or get overwhelmed.
+    •	Having a clear structure from the beginning makes it easier to add new projects without creating chaos.
 ________________________________________
 Step 1: Create the Main Workspace Folder
 This is the main folder that contains all your work.
